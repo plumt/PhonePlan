@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">요금제추천</string>
     <string name="OPEN_URL">http://api.smartchoice.or.kr</string>
-
+    <string name="authkey">1b4ef6e5b7</string>
     <string name="search_btn_text">조회하기</string>
+    <string name="retry_btn_text">뒤로가기</string>
 </resources>
